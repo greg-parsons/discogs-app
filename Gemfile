@@ -61,3 +61,9 @@ gem "rspec-rails", "~> 3.8"
 gem "discogs-wrapper", "~> 2.5"
 
 gem "dotenv-rails", "~> 2.7", :group => :development
+
+gem "pry-rails", "~> 0.3.9", :group => :development
+
+gem "pry-byebug", "~> 3.7", :group => :development
+
+gem "activerecord-session_store", "~> 1.1"
