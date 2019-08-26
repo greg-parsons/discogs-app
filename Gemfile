@@ -57,3 +57,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "devise", "~> 4.7"
 
 gem "rspec-rails", "~> 3.8"
+
+gem "discogs-wrapper", "~> 2.5"
+
+gem "dotenv-rails", "~> 2.7", :group => :development
